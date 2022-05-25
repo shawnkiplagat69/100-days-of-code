@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: May 23rd 2022 (Example 1)
+### Day 0: May 23rd 2022 
 ##### (delete me or comment me out)
 
 **Today's Progress**: Completed hackerrank's list comprehension's challenge
@@ -9,14 +9,14 @@
 
 **Link to work:** [List_comprehension python file](https://github.com/shawnkiplagat69/Day-0-of-100days-of-code)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 1: May 24, 2022
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on a beginner project: the Mad Libs generator.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I feel really great having worked well to request and manipulate user input, work around with some strings and escape sequences and even use up a few control flow organisations structures.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Mad Libs Generator Python ]([http://www.example.com](https://github.com/shawnkiplagat69/Day-1-of-100daysofcode))
 
 
 ### Day 1: June 27, Monday
