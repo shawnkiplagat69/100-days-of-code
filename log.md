@@ -16,7 +16,7 @@
 
 **Thoughts**: I feel really great having worked well to request and manipulate user input, work around with some strings and escape sequences and even use up a few control flow organisations structures.
 
-**Link(s) to work**:[Mad Lib Generator](https://github.com/shawnkiplagat69/Day-1-of-100daysofcode))
+**Link(s) to work**: [Mad Lib Generator](https://github.com/shawnkiplagat69/Day-1-of-100daysofcode)
 
 
 ### Day 1: June 27, Monday
