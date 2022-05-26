@@ -19,12 +19,12 @@
 **Link(s) to work**: [Mad Lib Generator](https://github.com/shawnkiplagat69/Day-1-of-100daysofcode)
 
 
-### Day 1: June 27, Monday
+### Day 2: May 25, 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've actually put quite a few hours on a guess the number game
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I feel really kinda excited to actually work on more than 100 lines of code. I however feel a bit lacking in terms of how to, say, exit a nested if loop and hopefully I can get a grasp of the concept soon enough. Regardless, I feel niceee!
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Number Guessing Game](https://github.com/shawnkiplagat69/Day-2-of-100daysofcode)
+
