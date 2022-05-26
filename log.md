@@ -25,6 +25,5 @@
 
 **Thoughts** I feel really kinda excited to actually work on more than 100 lines of code. I however feel a bit lacking in terms of how to, say, exit a nested if loop and hopefully I can get a grasp of the concept soon enough. Regardless, I feel niceee!
 
-**Link(s) to work**
-1. [Number Guessing Game](https://github.com/shawnkiplagat69/Day-2-of-100daysofcode)
+**Link to work**: [Number Guessing Game](https://github.com/shawnkiplagat69/Day-2-of-100daysofcode)
 
