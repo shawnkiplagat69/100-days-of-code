@@ -27,3 +27,38 @@
 
 **Link to work**: [Number Guessing Game](https://github.com/shawnkiplagat69/Day-2-of-100daysofcode)
 
+### Day 3: May 26, 2022
+
+**Today's Progress**: I worked on hackerrank's day 4 of 30 days of code challenge
+
+**Thoughts** It was tough getting myself familiar with python's classes and i am glad i got it right eventually
+
+**Link to work**: [Classes vs instance](https://github.com/shawnkiplagat69/Day-3-of-100daysofcode)
+
+### Day 4: May 27, 2022
+
+**Today's Progress**: I worked on two of hackerrank's challenges days 5 and 6 of 30 days of code challenge
+
+**Thoughts** i was able to further test my noobie python programming skills
+
+**Link to work**: [Day 5 and 6 hackerank](https://github.com/shawnkiplagat69/Day-4-of-100-days-of-code)
+
+
+### Day 5: May 28, 2022
+
+**Today's Progress**: I worked on hackerrank's day 7 of 30 days of code challenge
+
+**Thoughts** I got myself further acquainted with python's map function
+
+**Link to work**: [Hackerank arrays](https://github.com/shawnkiplagat69/Day-5-of-100daysofcode)
+
+
+
+
+### Day 6: May 29, 2022
+
+**Today's Progress**: I worked on hackerrank's day 8 of 30 days of code challenge
+
+**Thoughts** Dictionaries. I found myself challenged to understand how to manipulate data stored in dictionaries as required
+
+**Link to work**: [Hackerank dictionaries and maps](https://github.com/shawnkiplagat69/Day-6-of-100daysofcode)
